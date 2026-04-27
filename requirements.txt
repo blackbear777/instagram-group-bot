@@ -1,0 +1,4 @@
+flask==2.3.3
+instagrapi==2.1.2
+python-dotenv==1.0.0
+gunicorn==21.2.0
